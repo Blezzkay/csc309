@@ -10,7 +10,7 @@
             padding: 8px;
             text-align: left;
             border-bottom: 1px solid black;
-            border-right: 1px solid black; /* Add this line */
+            border-right: 1px solid black; 
         }
         th {
             background-color: #f2f2f2;
@@ -20,7 +20,7 @@
         }
         th:last-child,
         td:last-child {
-            border-right: none; /* Remove the border line for the last column */
+            border-right: none;  
         }
     </style>
     <title>CSC 309 DB Class</title>
